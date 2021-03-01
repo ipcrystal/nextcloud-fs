@@ -1,0 +1,7 @@
+nextcloud:
+  url: web:80
+  username: admin
+  password: tepia@123
+
+transfer:
+  port: 8080
